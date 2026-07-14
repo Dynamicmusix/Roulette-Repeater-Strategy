@@ -1,0 +1,21 @@
+﻿theme: minima
+title: Roulette Repeater Strategy Tracker
+description: >-
+  A single-file static web app to track roulette spins and identify repeating
+  numbers in real time. Displays slot colors, unique-streak arrows, and a live
+  Since Repeater counter — a digital alternative to a spreadsheet for players
+  using the Repeater Strategy.
+
+url: "https://Roulette-Repeater-Strategy.github.io"
+baseurl: ""
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Exclude files that are not part of the site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
